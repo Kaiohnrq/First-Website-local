@@ -1,0 +1,31 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color:whitesmoke ;
+}
+
+.galaxia1 {
+    background-color: tomato;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.estrela {
+    background-color: rgb(56, 186, 196);
+    color: white;
+}
+
+.Quasar {
+background-color: black;
+color: white;
+}
+
+.bg-footer {
+    background-color: whitesmoke;
+}
